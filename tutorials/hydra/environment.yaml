@@ -1,0 +1,16 @@
+name: hydra-tutorial
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+    - python=3.8
+    - hydra-core=1.1.1
+    - scikit-learn
+    - pip=22.0.4
+    - pandas
+    - nbformat
+    - plotly
+    - pip:
+      - hydra-optuna-sweeper==1.1.2
