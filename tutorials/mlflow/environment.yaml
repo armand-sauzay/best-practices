@@ -1,0 +1,11 @@
+name: mlflow-tutorial
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+    - python=3.8
+    - mlflow
+    - numpy
+    - scikit-learn
