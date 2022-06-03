@@ -8,7 +8,13 @@ In this tutorial, we'll cover the following:
 1. [environment.yaml and its use](#2-environmentyaml-and-its-use)
 1. [environment variables](#3-environment-variables)
 
+
 ## 1. create, list, activate and deactivate
+If you hadn't installed miniconda, you can verfy that your installation by opening a terminal and typing the following
+
+    ```bash
+    conda list
+    ```
 
 **The following commands are bash commands
 
