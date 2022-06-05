@@ -121,3 +121,7 @@ cd path/to/your/folder/of/code
     ```bash
     rmdir command_line_tutorial
     ```
+
+
+## Useful links
+- https://www.codecademy.com/article/command-line-commands
