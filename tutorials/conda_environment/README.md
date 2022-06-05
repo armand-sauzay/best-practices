@@ -1,19 +1,21 @@
 # Conda environment 101
 
+You can find a the detailed article of the following [here](https://medium.com/dev-genius/using-conda-environments-for-python-all-you-need-to-know-2eb36e224d1c)
+
 Pre-requisite: First you need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html). You can install it under /Users/<your_username>
 
 In this tutorial, we'll cover the following:
 
 1. [create, list, activate and deactivate](#1-create-list-activate-and-deactivate)
-1. [environment.yaml and its use](#2-environmentyaml-and-its-use)
-1. [environment variables](#3-environment-variables)
+2. [environment.yaml and its use](#2-environmentyaml-and-its-use)
+3. [environment variables](#3-environment-variables)
 
 
 ## 1. create, list, activate and deactivate
 If you hadn't installed miniconda, you can verfy that your installation by opening a terminal and typing the following
-    ```bash
-    conda list
-    ```
+```bash
+conda list
+```
 
 **The following commands are bash commands
 
