@@ -1,6 +1,6 @@
 # Pre commit checks 101
 
-You need to add __2__ files:
+To be able to add pre-commit checks that make sure your files and commit messages are correctly formatted, you simply need to add __2 files__ at the root of your repo:
 - __.pre-commit-config.yaml__: defines the checks you want to run
 - __.commitlintrc.yaml__: defines the npm package you use for pre commits.
 
