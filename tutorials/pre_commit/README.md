@@ -25,7 +25,7 @@ repos:
     hooks:
       - id: commitlint
         stages: [commit-msg]
-        additional_dependencies: ["@open-turo/commitlint-config-conventional"]"
+        additional_dependencies: ["@open-turo/commitlint-config-conventional"]
 ```
 
 Once you added those files, you can try adding a commit, the pre commit checks defined will make sure that:
