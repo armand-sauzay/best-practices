@@ -16,4 +16,4 @@ def my_app(cfg: DictConfig) -> None:
 if __name__ == "__main__":
     my_app()
 
-# run the following: python my_app1.py -m dataloader=local,redshift
+# run the following: python my_app.py -m dataloader=local,redshift

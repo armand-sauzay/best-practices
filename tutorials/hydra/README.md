@@ -1,3 +1,16 @@
-These tutorials are inspired by Hydra's [official documentation](https://hydra.cc/docs/intro/)
+# Hydra 101
 
-If you want more comprehensive tutrials, feel free to read through the official documentation as they cover a lot of use cases.
+In this tutorial, we're going through the basic of hydra and how to use its main functionalities, like single run, multi-run, config groups, instantiation, and plugins such as optuna.
+
+## 1. Basic example
+
+## 2. Config group example
+
+## 3. Instantiation Example
+
+## 4. Optuna plugin example
+
+
+## Resources
+
+You can find more examples in hydra's [official documentation](https://hydra.cc/docs/intro/)

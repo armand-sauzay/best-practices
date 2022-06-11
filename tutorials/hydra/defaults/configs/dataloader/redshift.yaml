@@ -1,3 +1,0 @@
-user: postgres_user
-password: drowssap
-query: select * from my_schema.my_table
